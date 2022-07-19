@@ -1,5 +1,3 @@
-package User;
-
 public class Photo {
     private String url;
     private String fileName;

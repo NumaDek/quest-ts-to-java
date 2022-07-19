@@ -1,5 +1,3 @@
-package User;
-
 public class Address {
     private String number;
     private String street;

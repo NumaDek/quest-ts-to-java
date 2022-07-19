@@ -1,5 +1,3 @@
-package User;
-
 import java.util.Date;
 import java.util.List;
 
@@ -14,6 +12,10 @@ public class User {
         this.size = size;
         this.photos = photos;
         this.address = address;
+    }
+
+    public static void main(String[] args) {
+        
     }
 
     public Date getBirthday() {
