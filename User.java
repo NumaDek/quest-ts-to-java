@@ -14,10 +14,6 @@ public class User {
         this.address = address;
     }
 
-    public static void main(String[] args) {
-        
-    }
-
     public Date getBirthday() {
         return birthday;
     }
